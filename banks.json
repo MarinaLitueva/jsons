@@ -1,0 +1,292 @@
+[
+  {
+    "active": "",
+    "key": "ab",
+    "name": "Абсолют банк",
+    "picture": "Bank=absolut.png",
+    "price1": "3500",
+	"price2": "3500",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "akb",
+    "name": "АкБарс банк",
+    "picture": "Bank=akbars.png",
+    "price1": "3500",
+	"price2": "4500",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "alb",
+    "name": "Альфа банк",
+    "picture": "Bank=alfa.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "bbr",
+    "name": "ББР банк",
+    "picture": "bbr_bank.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "bo",
+    "name": "Банк Открытие",
+    "picture": "Bank=otkr.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "br",
+    "name": "Банк Россия",
+    "picture": "Bank=russia.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "bural",
+    "name": "Банк Уралсиб",
+    "picture": "Bank=uralsib.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "bv",
+    "name": "Банк Возрождение",
+    "picture": "Bank=vozrozhd.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "bz",
+    "name": "Банк Зенит",
+    "picture": "Bank_ZENIT.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "dr",
+    "name": "Дом.РФ",
+    "picture": "Bank=rf.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "img",
+    "name": "",
+    "picture": "ocenka.svg",
+    "price1": "",
+	"price2": "",
+	"shortname": "",
+	"turn": ""
+  },
+  {
+    "active": "",
+    "key": "ipb",
+    "name": "Интерпрогрессбанк",
+    "picture": "Bank-unb.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "ИПБ",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "mib",
+    "name": "Московский индустриальный банк",
+    "picture": "Bank=min.png",
+    "price1": "3000",
+	"price2": "3500",
+	"shortname": "МИн Банк",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "msp",
+    "name": "МСП Банк",
+    "picture": "Bank=msp.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "mts",
+    "name": "МТС банк",
+    "picture": "Bank=mts.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "psb",
+    "name": "ПримСоц банк",
+    "picture": "Bank=primsocbank.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "rb",
+    "name": "Райффайзен банк",
+    "picture": "Bank=raif.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "rosb",
+    "name": "Росбанк",
+    "picture": "Bank=rosbank.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "rosselb",
+    "name": "РоссельхозБанк",
+    "picture": "Bank=rosselh.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "РСХБ",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "sb",
+    "name": "Сбербанк",
+    "picture": "Bank=sber.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "severb",
+    "name": "Севергазбанк",
+    "picture": "Bank=sever.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "СГБ",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "skb",
+    "name": "СКБ банк",
+    "picture": "Bank=skb.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "skb",
+    "name": "Совкомбанк",
+    "picture": "Bank=sovcom.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "smb",
+    "name": "СМП банк",
+    "picture": "Bank=smp.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "sngb",
+    "name": "Сургутнефтегазбанк",
+    "picture": "Bank=sngb.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "СНГБ",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "tkb",
+    "name": "Транскапитал банк",
+    "picture": "Bank=tkb.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "ТКБ",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "unib",
+    "name": "Юникредит банк",
+    "picture": "Bank=uni.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "ТКБ",
+	"turn": "1"
+  },
+  {
+    "active": "1",
+    "key": "vtb",
+    "name": "ВТБ",
+    "picture": "Bank=vtb.png",
+    "price1": "3000",
+	"price2": "3000",
+	"shortname": "",
+	"turn": "1"
+  },
+  {
+    "active": "",
+    "key": "other",
+    "name": "Другой банк",
+    "picture": "Bank=default.png",
+    "price1": "3000",
+    "price2": "3000",
+    "shortname": "",
+    "turn": "1"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "key": "primaryApartment",
+    "name": "первичная",
+    "picture": "case.svg",
+    "price1": "60",
+    "price2": ""
+  },
+  {
+    "key": "repeatApartment",
+    "name": "вторичная",
+    "picture": "case.svg",
+    "price1": "30",
+    "price2": ""
+  },
+  {
+    "key": "primaryApartmentProxy",
+    "name": "первичная  по доверенности",
+    "picture": "case.svg",
+    "price1": "60",
+    "price2": ""
+  },
+  {
+    "key": "primaryApartmentProxy",
+    "name": "первичная  по доверенности",
+    "picture": "case.svg",
+    "price1": "60",
+    "price2": ""
+  },
+  {
+    "key": "repeatApartmentProxy",
+    "name": "вторичная  по доверенности",
+    "picture": "case.svg",
+    "price1": "60",
+    "price2": ""
+  },
+  {
+    "key": "teploImager",
+    "name": "1",
+    "picture": "teplo.svg",
+    "price1": "",
+    "price2": ""
+  },
+  {
+    "key": "teplo0",
+    "name": "Студия",
+    "picture": "teplo.svg",
+    "price1": "1000",
+    "price2": "1500"
+  },
+  {
+    "key": "teplo1",
+    "name": "1к кв",
+    "picture": "teplo.svg",
+    "price1": "1500",
+    "price2": "2000"
+  },
+  {
+    "key": "teplo2",
+    "name": "2к кв",
+    "picture": "teplo.svg",
+    "price1": "2000",
+    "price2": "2500"
+  },
+  {
+    "key": "teplo3",
+    "name": "3к кв",
+    "picture": "teplo.svg",
+    "price1": "2500",
+    "price2": "3000"
+  },
+  {
+    "key": "teplo4",
+    "name": "4к кв",
+    "picture": "teplo.svg",
+    "price1": "3000",
+    "price2": "3500"
+  },
+  {
+    "key": "sobstvennost1",
+    "name": "Подписание АПП и получение ключей",
+    "picture": "sobstvennost.svg",
+    "price1": "5000",
+    "price2": "5000"
+  },
+  {
+    "key": "sobstvennost2",
+    "name": "Оформление права собственности",
+    "picture": "sobstvennost.svg",
+    "price1": "7000",
+    "price2": "7000"
+  },
+  {
+    "key": "sqvare",
+    "name": "Официальная проверка площади",
+    "picture": "plan-icon.svg",
+    "price1": "40",
+    "price2": "50"
+  },
+  {
+    "key": "sqvareDesign",
+    "name": "Улучшить до дизайнерского",
+    "picture": "plan-icon.svg",
+    "price1": "80",
+    "price2": "80"
+  },
+  {
+    "key": "frozeElectro",
+    "name": "Замер уровня электромагнитного излучения",
+    "picture": "electro.svg",
+    "price1": "5",
+    "price2": ""
+  },
+  {
+    "key": "frozeAmmonia",
+    "name": "Замер аммиака",
+    "picture": "ammonia.svg",
+    "price1": "5",
+    "price2": ""
+  },
+  {
+    "key": "frozeRadiation",
+    "name": "Замер радиации",
+    "picture": "radition.svg",
+    "price1": "5",
+    "price2": ""
+  },
+  {
+    "key": "minApartment",
+    "name": "Приемка",
+    "picture": "case.svg",
+    "price1": "1500",
+    "price2": ""
+  },
+  {
+    "key": "minSqvare",
+    "name": "Официальная проверка площади",
+    "picture": "plan-icon.svg",
+    "price1": "1200",
+    "price2": "1500"
+  },
+  {
+    "key": "minSqvareDesign",
+    "name": "Улучшить до дизайнерского",
+    "picture": "plan-icon.svg",
+    "price1": "1200",
+    "price2": "1500"
+  },
+  {
+    "key": "minApartmentProxy",
+    "name": "Приемка по доверенности (первичная и вторичная)",
+    "picture": "case.svg",
+    "price1": "2800",
+    "price2": ""
+  },
+  {
+    "key": "minFrozeElectro",
+    "name": "Замер уровня электромагнитного излучения",
+    "picture": "electro.svg",
+    "price1": "150",
+    "price2": ""
+  },
+  {
+    "key": "minFrozeAmmonia",
+    "name": "Замер аммиака",
+    "picture": "ammonia.svg",
+    "price1": "150",
+    "price2": ""
+  },
+  {
+    "key": "minFrozeRadiation",
+    "name": "Замер радиации",
+    "picture": "radition.svg",
+    "price1": "150",
+    "price2": ""
+  }
+]
